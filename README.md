@@ -1,1 +1,1 @@
-# FRUITS-SELLERS-CALCULATOR
+Our new project is a straightforward calculator for fruit sellers. To develop it, we will use JavaScript, CSS, and HTML. We have constructed the additions portion of the problem, and we will gradually add the subtraction, multiplication, and division portions. Hence, we will be able to perform any computation at the end.
